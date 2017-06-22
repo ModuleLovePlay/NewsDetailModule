@@ -7,6 +7,7 @@
 //
 
 #import "NewsDetailModel.h"
+#import <YYKit/YYKit.h>
 
 @implementation NewsDetailModel
 
