@@ -12,7 +12,7 @@
 //V
 #import "NewsDetailWebCellNode.h"
 #import "NewsDetailRelativeCellNode.h"
-#import "NewsCommentCellNode.h"
+#import <NewsCommentModule/NewsCommentCellNode.h>
 #import "NewsDetailSectionTitleHeader.h"
 #import "NewsDetailSectionCommentFooter.h"
 //C
