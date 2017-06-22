@@ -124,6 +124,7 @@ Pod::Spec.new do |s|
 
     ss.dependency 'NewsDetailModule/Model'
     ss.dependency 'NewsDetailModule/View'
+    ss.dependency 'NewsCommentModule/View' #添加依赖：评论cell组件
   end
   # ――― Resources ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #

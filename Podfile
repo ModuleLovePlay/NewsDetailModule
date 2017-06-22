@@ -15,4 +15,5 @@ target 'NewsDetailModule' do
   
   pod 'YYKit'
   pod 'Masonry'
+  
 end
